@@ -1,0 +1,14 @@
+from,to,freq
+Fatimah,Giovanni,1
+Fatimah,Henrik,1
+Fatimah,Michael,12
+Fatimah,Paul,4
+Giovanni,Fatimah,5
+Giovanni,Henrik,1
+Giovanni,Paul,2
+Henrik,Fatimah,10
+Henrik,Paul,2
+Michael,Fatimah,8
+Michael,Paul,3
+Paul,Henrik,3
+Paul,Michael,4
