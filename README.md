@@ -1,2 +1,2 @@
 # WCNTDA2023
-Codes and data sets utilised in the workshop
+On the 15th of May 2023, the Center for Modelling and Data Analysis (DELTA) and the Malaysian Mathematical Sciences Society (PERSAMA) have organised the Workshop on Complex Networks and Topological Data Analysis 2023 (WCNTDA2023). As the workshop deals with complex networks and topological data analysis, I was in charge of delivering the second session on the "Intro to Networks with igraph". This deals with generating networks, visualising them and analysing them using the igraph package in R. The Google Colab notebook containing the codes and notes for this session are attached in this repository. The data sets utilised are also available.
